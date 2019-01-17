@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'calabash-android'
+gem 'calabash-page-objects', '~> 0.5.6'
+gem 'json', '1.8.6'
+gem 'rake'
